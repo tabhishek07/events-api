@@ -1,3 +1,6 @@
+## Notion doc link for all Task at one place
+https://www.notion.so/DT-Assignment-2d9288b04549801bbc51f715c08ca93e?source=copy_link
+
 # Events API
 
 A backend REST API for managing events, built using Node.js, Express, and the native MongoDB driver.
